@@ -1,0 +1,88 @@
+.topnav {
+    background-color: #1c4b81;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #ffee00;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: blink;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: rgb(0, 0, 0);
+}
+
+.active {
+    /*background-color: #333333;*/
+    background-color: #222222;
+    color: white;
+}
+
+.topnav .icon {
+    display: none;
+}
+
+body{
+    background: url(https://s1.1zoom.ru/big0/713/Slovakia_Mountains_Autumn_Tatra_Mountains_Village_594598_1280x800.jpg);
+}
+div #nov{
+	background-color: #1c4b81;
+}
+p{
+    display: inline;
+    font-size: 17px;
+    color: rgb(0, 250, 154);
+}
+
+pre{
+    display: inline;
+    color: rgb(0, 250, 154);
+}
+
+.big{
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(0, 250, 154);
+}
+
+div #txt{
+    align: left;
+    color: rgb(0, 250, 154);
+}
+
+#otst{
+    /*display: none;*/
+    margin-left: 15px;
+}
+/*iframe{
+    margin-left: 22%;
+}
+*/
+h1{
+    color: rgb(219, 53, 191);
+}
+
+a{
+    text-decoration: blink;
+}
+li{
+    color: rgb(0, 250, 154);
+}
+legend{
+    color: rgb(0, 250, 154);
+}
+h2{
+   color: rgb(219, 53, 191);
+}
+h4{
+    color: rgb(0, 250, 154);
+}
+h3 {
+    color: rgb(0, 250, 154);
+}
